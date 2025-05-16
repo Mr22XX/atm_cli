@@ -23,5 +23,5 @@
    - `node app.js check-balance` dll.
 
 ## Dibuat oleh
-Nama: [Nama Kamu]  
+Nama: Rayhan Muhammad Adha  
 Kelas: Digital Skill Fair 39 - Faculty of IT  
